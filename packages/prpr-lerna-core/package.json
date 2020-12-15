@@ -1,5 +1,5 @@
 {
-  "name": "prpr-lerna-core-test-lzy",
+  "name": "prpr-lerna-core",
   "version": "1.0.4",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "prpr-lerna-core": "^1.0.2"
+    "prpr-lerna-core": "^1.0.2",
+    "react": "^17.0.1"
   },
   "keywords": [],
   "author": "hailuo",
