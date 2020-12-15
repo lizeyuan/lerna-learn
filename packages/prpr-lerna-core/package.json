@@ -1,5 +1,5 @@
 {
-  "name": "prpr-lerna-core-test-lzy",
+  "name": "prpr-lerna-core-test",
   "version": "1.0.3",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "keywords": [],
   "author": "hailuo",
   "license": "ISC",
-  "gitHead": "0785d4751e88eeedcec14df8f36a3065ad1560b8"
+  "gitHead": "171a052632c2d8c3099ece2e1dcf64356cc1e9a2"
 }
