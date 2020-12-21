@@ -1,5 +1,5 @@
 {
-  "name": "prpr-lerna-popular",
+  "name": "prpr-lerna-popular-lzy1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.20.0",
-    "react": "^17.0.1"
+    "react": "^17.0.1",
+    "typescript": "^4.1.3"
   }
 }
