@@ -3,6 +3,9 @@
   "version": "2.1.0",
   "description": "",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,5 +17,5 @@
     "react": "^17.0.1",
     "typescript": "^4.1.3"
   },
-  "gitHead": "85c647062d883c596b08e930590c2f8e67d00900"
+  "gitHead": "91a0ca315ea5a0e2c5fc9020b35bca799fb3ce2d"
 }
