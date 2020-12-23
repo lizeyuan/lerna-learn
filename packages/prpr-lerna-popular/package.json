@@ -1,6 +1,6 @@
 {
   "name": "@babel/cdnjcdnu",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "description": "",
   "main": "index.js",
   "publishConfig": {
@@ -17,5 +17,5 @@
     "react": "^17.0.1",
     "typescript": "^4.1.3"
   },
-  "gitHead": "91a0ca315ea5a0e2c5fc9020b35bca799fb3ce2d"
+  "gitHead": "0b2037b3e2fc47be21476c614a080fba573853f7"
 }
